@@ -1,6 +1,6 @@
 # Exercício utiizando Spring Data JPA e MySQL
 
-Exercício pessoa utilizando Spring Data JPA e um banco de dados MySQL para persistência de dados.
+Exercício pessoal utilizando Spring Data JPA e um banco de dados MySQL para persistência de dados.
 
 
 ## 🔗 Links
